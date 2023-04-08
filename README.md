@@ -1,0 +1,2 @@
+# gome
+game in go
